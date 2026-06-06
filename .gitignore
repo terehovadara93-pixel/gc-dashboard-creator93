@@ -1,0 +1,5 @@
+settings.json
+screenshots/
+debug/
+__pycache__/
+*.pyc
